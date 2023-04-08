@@ -27,11 +27,11 @@ export function Earth(props) {
       <ambientLight intensity={0.8} />
       <pointLight color="#f6f3ea" position={[2, 0, 2]} intensity={1.2} />
       <Stars
-        radius={500}
+        radius={600}
         depth={60}
         count={20000}
         factor={7}
-        saturation={-1}
+        saturation={1}
         fade
       />
       <mesh ref={cloudsRef}>
@@ -51,7 +51,7 @@ export function Earth(props) {
           map={colorMap}
           normalMap={normalMap}
           metalness={0.4}
-          roughness={0.7}
+          roughness={1}
         />
         <OrbitControls
           enablePan={true}
