@@ -27,11 +27,11 @@ export function Earth(props) {
       <ambientLight intensity={0.8} />
       <pointLight color="#f6f3ea" position={[2, 0, 2]} intensity={1.2} />
       <Stars
-        radius={600}
+        radius={300}
         depth={60}
         count={20000}
         factor={7}
-        saturation={1}
+        saturation={10}
         fade
       />
       <mesh ref={cloudsRef}>
