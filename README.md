@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# 3d Earth application:
+https://3d-earth-nadiia.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
