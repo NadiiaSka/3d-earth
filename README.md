@@ -1,5 +1,10 @@
 # 3d Earth application:
-https://3d-earth-nadiia.netlify.app
+3D Earth is an interactive React & Three.js application that visualizes the Earth's and Moon's positions in space. Using React Three Fiber, it delivers a smooth, immersive experience to explore celestial movements dynamically.
+
+Live Demo: https://3d-earth-nadiia.netlify.app
+
+<img src="https://github.com/user-attachments/assets/b9324d78-8305-4855-813c-23232b6bdb18" alt="3d Earth app" width="400"/>
+
 
 ## Getting Started with Create React App
 
